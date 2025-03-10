@@ -1,2 +1,2 @@
 # yhsml
-A hub for my machine learning projects.
+A hub for all my machine learning projects.
